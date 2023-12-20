@@ -1,2 +1,1 @@
 # onderwijspartij
-onderwijspartij
