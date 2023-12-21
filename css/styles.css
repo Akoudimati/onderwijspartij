@@ -166,3 +166,9 @@ CONTACT FORM CLASSS
 
 .footer{width:960px; margin:0 auto; margin-top:76px; overflow:hidden;}
 .footer p{text-align:center; color:#cf9359; padding-bottom:72px;}
+.img-2{
+    position: relative;
+    width: 200px;
+    margin: auto;
+    margin-left: 40%;
+}
